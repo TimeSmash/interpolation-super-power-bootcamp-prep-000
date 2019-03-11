@@ -3,4 +3,4 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"  ]
 
 def display_rainbow(array) 
-  puts "#{}"
+  puts "#{array[0][1]}"
